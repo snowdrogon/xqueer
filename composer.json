@@ -1,0 +1,19 @@
+{
+    "name": "tianyiyu/xqueer",
+    "description": "This is the tian yi yu",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "longyi",
+            "email": "827193289@qq.com"
+        }
+    ],
+    "require": {
+        "php":">=5.6.0"
+    },
+    "autoload":{
+        "psr-4":{
+            "Queer\\Lst\\": "src/Queer/Lst"
+        }
+    }
+}
